@@ -71,70 +71,20 @@
       "id": "1467"
     },
     {
-      "id": "897a",
+      "0": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "id": "1149"
+    },
+    {
+      "id": "f9dd",
       "name": "",
       "email": "",
-      "message": ""
-    },
-    {
-      "0": {
-        "name": "",
-        "email": "",
-        "phone": "",
-        "location": ""
-      },
-      "id": "d221",
-      "name": "Abhi",
-      "email": "abhimishra847@gmail.com",
-      "phone": "+917309127109"
-    },
-    {
-      "id": "ea0d",
-      "name": "",
-      "email": "",
-      "message": ""
-    },
-    {
-      "id": "c73e",
-      "name": "",
-      "email": "",
-      "message": ""
-    },
-    {
-      "0": {
-        "name": "",
-        "email": "",
-        "phone": "",
-        "location": ""
-      },
-      "id": "cf94",
-      "name": "Abhi",
-      "email": "abhimishra847@gmail.com",
-      "phone": "+917309127109"
-    },
-    {
-      "0": {
-        "name": "",
-        "email": "",
-        "phone": "",
-        "location": ""
-      },
-      "id": "3bea",
-      "name": "Dakshdeep Saini",
-      "email": "Dsaini654@gmail.com",
-      "phone": "+91730923456"
-    },
-    {
-      "0": {
-        "name": "",
-        "email": "",
-        "phone": "",
-        "location": ""
-      },
-      "id": "4ec1",
-      "name": "Mandeep Saini",
-      "email": "Mdeep854621@gmail.com",
-      "phone": "+916699558874"
+      "phone": "",
+      "location": ""
     }
   ],
   "faqs": [

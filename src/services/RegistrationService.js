@@ -14,8 +14,15 @@ const add = async p =>{
         }
     }
     const res = await client.post('',p,options)
-    console.log(res.data)
+    // console.log(res.data)
     return res.data;
 }
-const RegistrationService = {getAll,add}
+const delP = async p =>{
+    // const res = await client.delete(p.id)
+    // return res.data
+    const res = await axios.delete("http://localhost:3000/participants/"+p.id)
+    // console.log(res)
+    return res
+}
+const RegistrationService = {getAll,add,delP}
 export default RegistrationService
