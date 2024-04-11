@@ -1,0 +1,192 @@
+{
+  "participants": [
+    {
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "phone": "+12345678901",
+      "location": "United States",
+      "id": "4c53"
+    },
+    {
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "phone": "+19876543210",
+      "location": "Canada",
+      "id": "59d7"
+    },
+    {
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "+447712345678",
+      "location": "United Kingdom",
+      "id": "986f"
+    },
+    {
+      "name": "Juan Martinez",
+      "email": "juan.martinez@example.com",
+      "phone": "+5212345678901",
+      "location": "Mexico",
+      "id": "eb9c"
+    },
+    {
+      "name": "Sophie Dubois",
+      "email": "sophie.dubois@example.com",
+      "phone": "+33123456789",
+      "location": "France",
+      "id": "cb4d"
+    },
+    {
+      "name": "Hiroshi Tanaka",
+      "email": "hiroshi.tanaka@example.com",
+      "phone": "+811234567890",
+      "location": "Japan",
+      "id": "9197"
+    },
+    {
+      "name": "Marta Rossi",
+      "email": "marta.rossi@example.com",
+      "phone": "+391234567890",
+      "location": "Italy",
+      "id": "c31a"
+    },
+    {
+      "name": "Muhammad Khan",
+      "email": "muhammad.khan@example.com",
+      "phone": "+913451234567",
+      "location": "India",
+      "id": "f805"
+    },
+    {
+      "name": "Luisa Fernandes",
+      "email": "luisa.fernandes@example.com",
+      "phone": "+551234567890",
+      "location": "Brazil",
+      "id": "d84d"
+    },
+    {
+      "name": "Cheng Liu",
+      "email": "cheng.liu@example.com",
+      "phone": "+8612345678901",
+      "location": "China",
+      "id": "1467"
+    },
+    {
+      "id": "897a",
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "0": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "id": "d221",
+      "name": "Abhi",
+      "email": "abhimishra847@gmail.com",
+      "phone": "+917309127109"
+    },
+    {
+      "id": "ea0d",
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "id": "c73e",
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "0": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "id": "cf94",
+      "name": "Abhi",
+      "email": "abhimishra847@gmail.com",
+      "phone": "+917309127109"
+    },
+    {
+      "0": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "id": "3bea",
+      "name": "Dakshdeep Saini",
+      "email": "Dsaini654@gmail.com",
+      "phone": "+91730923456"
+    },
+    {
+      "0": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "location": ""
+      },
+      "id": "4ec1",
+      "name": "Mandeep Saini",
+      "email": "Mdeep854621@gmail.com",
+      "phone": "+916699558874"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is a hackathon?",
+      "answer": "A hackathon is an event where individuals or teams come together to collaboratively develop innovative solutions to specific challenges within a limited timeframe. It's a great opportunity to showcase your skills, learn from others, and create something impactful.",
+      "id": "e37d"
+    },
+    {
+      "question": "Who can participate?",
+      "answer": "Our hackathon is open to anyone passionate about technology and innovation! Whether you're a seasoned developer, designer, entrepreneur, or a student eager to explore the world of tech, you're welcome to join us.",
+      "id": "684d"
+    },
+    {
+      "question": "How do I register for the hackathon?",
+      "answer": "Registration is simple! Visit our website and click on the 'Register' button. Fill out the registration form with your details and team information if applicable. Once registered, you'll receive a confirmation email with further instructions.",
+      "id": "6689"
+    },
+    {
+      "question": "Do I need to have a team to participate?",
+      "answer": "Teams are encouraged but not mandatory. You can register as an individual, and we'll help you find like-minded participants to form a team. Alternatively, if you already have a team, you can register together.",
+      "id": "1e32"
+    },
+    {
+      "question": "What are the themes or challenges of the hackathon?",
+      "answer": "The hackathon will feature a variety of themes and challenges spanning different areas such as sustainability, healthcare, fintech, education, and more. Participants can choose which challenge aligns best with their interests and expertise.",
+      "id": "b96c"
+    },
+    {
+      "question": "What do I need to bring to the hackathon?",
+      "answer": "Bring your laptop, charger, any necessary software or development tools, and a mindset ready to innovate! We'll provide Wi-Fi, meals, and any other amenities needed during the event.",
+      "id": "ab36"
+    },
+    {
+      "question": "What happens if I don't have a project idea?",
+      "answer": "Don't worry! We'll have ideation sessions and mentors available to help you brainstorm and refine your ideas. You can also join a team with an existing idea that aligns with your skills and interests.",
+      "id": "2ecd"
+    },
+    {
+      "question": "Will there be prizes?",
+      "answer": "Yes! We'll have exciting prizes for winning teams based on creativity, technical execution, and overall impact of the projects developed during the hackathon.",
+      "id": "72c6"
+    },
+    {
+      "question": "Can I attend the hackathon remotely?",
+      "answer": "Depending on the event format, we may offer remote participation options. Check our website or contact us for more details closer to the event date.",
+      "id": "dbe4"
+    },
+    {
+      "question": "How can I contact the organizers if I have more questions?",
+      "answer": "For any further questions or inquiries, feel free to reach out to us via email at hackathon@example.com or through our social media channels. We're here to help!",
+      "id": "5718"
+    }
+  ]
+}
